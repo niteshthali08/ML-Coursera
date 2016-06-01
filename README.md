@@ -17,3 +17,8 @@ Linear regression to predict selling price of the house given features of the ho
 
 # machine-learning-ex4
   1. Backpropagation algorithm for neural networks to recognize hand-written digit recognition. (Regularized Neural Networks)
+
+# machine-learning-ex5
+  1. Regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir. 
+(the effects of bias v.s. variance)
+
