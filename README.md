@@ -22,3 +22,5 @@ Linear regression to predict selling price of the house given features of the ho
   1. Regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir. 
 (the effects of bias v.s. variance)
 
+# machine-learning-ex6
+  1. Support vector machines (SVMs) with Gaussian Kernels to build an Email spam classifier.
