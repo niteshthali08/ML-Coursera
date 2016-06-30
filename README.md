@@ -24,3 +24,11 @@ Linear regression to predict selling price of the house given features of the ho
 
 # machine-learning-ex6
   1. Support vector machines (SVMs) with Gaussian Kernels to build an Email spam classifier.
+
+# machine-learning-ex7
+  1. K-means clustering algorithm to compress an image. 
+  2. Principal component analysis to find a low-dimensional representation of face images.
+  
+# machine-learning-ex8
+  1. Anomaly detection algorithm to detect failing servers on a network. 
+  2. Collaborative filtering to build a recommender system for movies.
